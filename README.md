@@ -1,2 +1,3 @@
 # hello_world
-My first repository
+
+My name is Baptiste, I study physics, I'm new here :)
